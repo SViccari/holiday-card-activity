@@ -1,6 +1,6 @@
-# Step One
----
-# Add a Holiday Greeting
+## Step One
+
+### Add a Holiday Greeting
 Let's add a greeting to our card by using the `<h1>` tag.
 
 In the `christmas_card.html` file, between the body tags, add:

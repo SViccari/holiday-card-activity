@@ -1,6 +1,6 @@
-# Step Three
----
-# Font
+## Step Three
+
+### Font
 Is it just me, or is our font a bit boring? There are a number of free
 fonts that Google makes available for us, we just need to import them into our
 css file before we can use them.
@@ -25,7 +25,7 @@ section {
 Interested in using a different font? Visit https://fonts.google.com to find
 more fonts. Just remember to import the font you wish to use.
 
-# Position Your Greeting
+### Position Your Greeting
 Let's move our greeting out of the corner so the text isn't flush with the
 edge of the card. Before we add any css, let's wrap the greeting text in a css
 class so we can easily apply css to the `<h1>` and `<h2>` tags at the same time.

@@ -1,6 +1,6 @@
-# Step Four
---------
-# Add Another Image
+## Step Four
+
+### Add Another Image
 We have two images to choose from, you can add Santa or a Snowman. In your
 `christmas_card.html` file, beneath the closing `</div>` tag for the `greeting`
 class, add one of the following lines of code:

@@ -1,6 +1,6 @@
-# Step Two
----
-# Add a Background Image
+## Step Two
+
+### Add a Background Image
 Every Christmas card needs a holiday image.
 
 Rather than adding a background image for the entire webpage, we're going to add
@@ -58,7 +58,7 @@ h2 {
 }
 ```
 
-# Position the Background Image
+### Position the Background Image
 Did you notice how the amount of whitespace between the top of our picture and
 the top of the web page increased? Why the heck did our image move down the page?
 Our image moved down because the `<h1>` and `<h2>` tags automatically add

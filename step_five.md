@@ -1,6 +1,6 @@
-# Step Five
----
-# Center the Christmas Card
+## Step Five
+
+### Center the Christmas Card
 Let's move our Christmas card to the center of the webpage and slightly darken the
 background of our page.
 
@@ -14,7 +14,7 @@ section {
   margin: auto;
 }
 ```
-# Darken the Background
+### Darken the Background
 To darken the page around the christmas card, we'll use the `body` tag to set a background color.
 At the top of your `style.css` file, add the following:
 ```

@@ -1,6 +1,6 @@
-# Step Six
----
-# Add Snow
+## Step Six
+
+### Add Snow
 
 Codecademy has already written javascript code that will produce snow for us. (Thanks codecademy!) We just have to include their code in our html file.
 

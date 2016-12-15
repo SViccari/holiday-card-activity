@@ -1,4 +1,4 @@
-# Let's Make A Christmas Card!
+## Let's Make A Christmas Card :christmas_tree:
 
 This holiday inspired activity was created by [Codecademy](https://www.codecademy.com).
 This activity has been recreated here to facilitate walking through the process
@@ -8,10 +8,10 @@ If you would like to visit this exercise on Codecademy, visit [here](https://www
 
 Below, you'll find all the necessary steps to code your very own Christmas card.
 
-This is the card we will be creating:
+This is the card we will be creating:</br>
 ![demo](demo.gif)
 
-# Index:
+### Index:
 [Let's Get Started]
   - Create a HTML and CSS file
   - Setup a basic HTML file
